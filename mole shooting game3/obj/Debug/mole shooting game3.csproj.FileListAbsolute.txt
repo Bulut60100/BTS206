@@ -1,0 +1,18 @@
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.exe.config
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.exe
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.pdb
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole_shooting_game3.Form1.resources
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole_shooting_game3.Properties.Resources.resources
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.csproj.GenerateResource.cache
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.exe
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.pdb
+C:\Users\Mustafa BULUT\source\repos\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.csprojAssemblyReference.cache
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.exe.config
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.exe
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\bin\Debug\mole shooting game3.pdb
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.csprojAssemblyReference.cache
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole_shooting_game3.Form1.resources
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole_shooting_game3.Properties.Resources.resources
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.csproj.GenerateResource.cache
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.exe
+C:\Users\Mustafa BULUT\Desktop\Yeni klasör (2)\mole shooting game3\mole shooting game3\obj\Debug\mole shooting game3.pdb
